@@ -1,0 +1,5 @@
+{
+  "name": "Pythonic Task Master",
+  "description": "A world-class React-based task management application implementing the full feature set of a Python CLI To-Do application, including priorities, due dates, sorting, and persistent storage simulation.",
+  "requestFramePermissions": []
+}
